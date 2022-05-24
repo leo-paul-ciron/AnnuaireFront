@@ -1,0 +1,10 @@
+.container_page{
+    margin-top: 20vh;
+    display: inline-grid;
+    grid-template-columns: repeat(4,1fr);
+    width: 80vw;
+    margin-left:10vw;
+    justify-items: center;
+    grid-row-gap: 3vh;
+
+}
